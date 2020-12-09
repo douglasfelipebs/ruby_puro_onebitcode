@@ -1,0 +1,4 @@
+Original Phraze: O que voce quer para o almoço hoje?
+Translate From: pt
+Translate To: es
+Result Phraze: ¿Qué quieres para almorzar hoy?
